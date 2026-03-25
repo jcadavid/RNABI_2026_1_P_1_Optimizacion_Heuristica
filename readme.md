@@ -1,16 +1,15 @@
-# Optimización Heurística: Análisis Numérico y Combinatorio
-## Trabajo 01: Optimización heurística
-### 👥 Equipo
+# Trabajo 01: Optimización heurística
+## 👥 Equipo
 
-Alejandro Gómez Franco
-Juan Felipe Cadavid Ruiz
-Jesus Miguel Porto Lopez
-Santiago Acevedo Cacua
+- Alejandro Gómez Franco
+- Juan Felipe Cadavid Ruiz
+- Jesus Miguel Porto Lopez
+- Santiago Acevedo Cacua
 
-### 🎯 Objetivo
+## 🎯 Objetivo
 Comparar el desempeño de métodos de optimización clásicos versus heurísticos en dos dominios: problemas numéricos continuos y optimización combinatoria.
-### 📋 Contenido
-#### Parte 1: Optimización Numérica
+## 📋 Contenido
+### Parte 1: Optimización Numérica
 - Comparación de descenso por gradiente versus métodos metaheurísticos en funciones multimodales:
 - Función evaluada: Rastrigin (2D y 3D)
 - Métodos implementados:
@@ -27,7 +26,7 @@ Comparar el desempeño de métodos de optimización clásicos versus heurístico
 - Trayectoria de convergencia
 - Análisis estadístico con múltiples ejecuciones
 
-#### Parte 2: Optimización Combinatoria
+### Parte 2: Optimización Combinatoria
 - Problema del Viajante (TSP): Ruta óptima por las 32 capitales de estados mexicanos
 - Métodos implementados:
 
@@ -36,18 +35,17 @@ Comparar el desempeño de métodos de optimización clásicos versus heurístico
 
 - Modelo de costos:
 
- - Costo de tiempo del vendedor (paramétrico: 3 niveles de salario)
- - Peajes por ruta
- - Consumo de combustible
- - Análisis de sensibilidad respecto al salario
+  - Costo de tiempo del vendedor (paramétrico: 3 niveles de salario)
+  - Peajes por ruta
+  - Consumo de combustible
+  - Análisis de sensibilidad respecto al salario
 
 - Salidas:
+  - Animaciones de convergencia (GIFs)
+  - Trazas en mapa de México con evolución temporal
+  - Comparativa de desempeño ACO vs GA
 
- - Animaciones de convergencia (GIFs)
- - Trazas en mapa de México con evolución temporal
- - Comparativa de desempeño ACO vs GA
-
-### 📊 Resultados
+## 📊 Resultados
 El notebook contiene:
 
 - Visualizaciones iterativas del proceso de búsqueda
